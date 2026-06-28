@@ -5,6 +5,12 @@
       "version": "1.0.0",
       "url": "https://github.com/vuonganh1106/XKEY_OTA/releases/download/v1.0.0/firmware.bin",
       "mandatory_update": false
+    },
+    {
+      "hw_type": "XKEY_V1",
+      "version": "1.0.0",
+      "url": "https://github.com/vuonganh1106/XKEY_OTA/releases/download/v1.0.0/firmware.bin",
+      "mandatory_update": false
     }
   ]
 }
